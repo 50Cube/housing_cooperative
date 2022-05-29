@@ -1,3 +1,1 @@
-#Projekt NSAI 2022 - Spółdzielnia mieszkaniowa
-Jakub Bogdan 244000
-Przemysław Komuda 244015
+Architecture of microservices for managing a housing cooperative. Uses Spring Boot, Gateway, Eureka, Feign Client, Keycloak, RabbitMQ, PostgreSQL, React.js etc.
